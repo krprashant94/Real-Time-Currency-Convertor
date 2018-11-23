@@ -1,0 +1,1 @@
+put ui file together with exe file when compile
