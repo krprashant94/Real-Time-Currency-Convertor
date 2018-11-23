@@ -1,1 +1,1 @@
-pyinstaller  -w -F -i icon.ico ui.py
+pyinstaller  -w -F -i icon.ico converter.py
