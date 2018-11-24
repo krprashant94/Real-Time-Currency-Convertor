@@ -1,1 +1,1 @@
-pyinstaller  -w -F -i icon.ico converter.py
+pyinstaller converter.py --onefile --windowed --icon=icon.ico --clean	--name "Currency Converter" --version-file version.txt
